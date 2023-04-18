@@ -41,7 +41,7 @@
 - [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
 - [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
 ## Architecture Patterns
-- [ ] [N-Tier](./architecture-patterns/n-tier.md)
+- [x] [N-Tier](./architecture-patterns/n-tier.md)
 - [ ] [Event Driven](./architecture-patterns/event-driven.md)
 - [ ] [Monolith](./architecture-patterns/monolith.md)
 - [ ] [IDesign](./architecture-patterns/idesign.md)
