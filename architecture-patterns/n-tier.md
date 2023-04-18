@@ -25,7 +25,6 @@ N-tier architecture is also called multi-tier architecture because the software 
     - It is the simplest one as it is equivalent to running the application on a personal computer. All of the required components for an application to run are on a single application or server.
 
 ## Advantages vs Disadvantages
-
 | Advantages | Disadvantages |
 | ---------- | ------------- |
 | Scalability | Increase in Effort |
