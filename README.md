@@ -42,7 +42,7 @@
 - [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
 ## Architecture Patterns
 - [x] [N-Tier](./architecture-patterns/n-tier.md)
-- [ ] [Event Driven](./architecture-patterns/event-driven.md)
+- [x] [Event Driven](./architecture-patterns/event-driven.md)
 - [x] [Monolith](./architecture-patterns/monolith.md)
 - [ ] [IDesign](./architecture-patterns/idesign.md)
 ## Analysis 
