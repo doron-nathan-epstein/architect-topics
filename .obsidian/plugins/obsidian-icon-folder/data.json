@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiOpenproject",
+      "RiCommand-line",
+      "FasGears",
+      "RiFolder-info-fill",
+      "FasScissors"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "analysis": "SiSimpleanalytics",
+  "architecture-patterns": "SiTextpattern",
+  "containers": "SiDocker",
+  "kubernetes": "SiKubernetes",
+  "operating-systems": "RiWindows-fill",
+  "performance": "FasGauge-high",
+  "security": "FasLock",
+  "testing": "RiTest-tube-fill",
+  "infrastructure-and-hardware": "FasServer",
+  "high-availablity": "FasShare-nodes",
+  "devops": "SiAzuredevops",
+  "design-patterns": "FasScissors",
+  "computer-science-development-fundamentals": "RiFolder-info-fill",
+  "apis": "FasGears",
+  "artificial-intelligence": "RiCommand-line",
+  "project-work-styles": "SiOpenproject"
+}
