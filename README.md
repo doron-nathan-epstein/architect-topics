@@ -56,7 +56,7 @@
 ## Design Patterns
 - [ ] [Gang of Four](./design-patterns/gang-of-four.md)
 - [ ] [Hexagonal Architecture](./design-patterns/hexagonal-architecture.md)
-- [ ] [Clean Architecture](./design-patterns/hexagonal-architecture.md)
+- [ ] [Clean Architecture](./design-patterns/clean-architecture.md)
 - [ ] [UML](./design-patterns/uml.md)
 ## Computer Science and Development Fundamentals
 - [ ] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
