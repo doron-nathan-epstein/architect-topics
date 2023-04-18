@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cadc55c72860408",
+            "id": "8dd441b5bddbb8a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "analysis/analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "analysis/analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "analysis/analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "analysis/analysis.md"
+              }
             }
           }
         ]
@@ -139,12 +147,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cadc55c72860408",
+  "active": "8dd441b5bddbb8a9",
   "lastOpenFiles": [
+    "analysis/capturing-requirements.md",
+    "analysis/uml.md",
+    "analysis/analysis.md",
+    "architecture-patterns/event-driven.md",
+    "README.md",
     "kubernetes/Untitled.canvas",
     "2023-04-18.md",
     "design-patterns/clean-architecture.md",
-    "README.md",
     "design-patterns/hexagonal-architecture.md"
   ]
 }
