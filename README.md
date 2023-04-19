@@ -44,7 +44,7 @@
 - [x] [N-Tier](./architecture-patterns/n-tier.md)
 - [x] [Event Driven](./architecture-patterns/event-driven.md)
 - [x] [Monolith](./architecture-patterns/monolith.md)
-- [ ] [IDesign](./architecture-patterns/idesign.md)
+- [x] [IDesign](./architecture-patterns/idesign.md)
 ## Analysis 
 - [ ] [Capturing requirements](./analysis/capturing-requirements.md)
 - [ ] [UML use-cases and activity diagrams](./analysis/uml.md)
