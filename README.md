@@ -19,46 +19,66 @@
   - [Kubernetes](#kubernetes)
   - [Artificial Intelligence](#artificial-intelligence)
 
-# Context
+## Context
 
-# Topics
-## High Availability
+## Topics
+
+### High Availability
+
 - [ ] [Applications](./high-availablity/applications.md)
 - [ ] [Databases](./high-availablity/databases.md)
-## Security
+
+### Security
+
 - [ ] [Hashing](./security/hashing.md)
 - [ ] [Encryption](./security/encryption.md)
 - [ ] [JWT's](./security/jwt.md)
 - [ ] [Certificates](./security/certificates.md)
 - [ ] [Symmetric and Asymmetric encryption](./security/symmetric-vs-asymmetric-encryption.md)
-## Testing
+
+### Testing
+
 - [ ] [The test pyramid](./testing/test-pyramid.md)
 - [ ] [Kinds of tests, techniques for each](./testing/test-techniques.md)
-## Performance
+
+### Performance
+
 - [ ] [Threads](./performance/threads.md)
 - [ ] [How async/await works](./performance/async-await.md)
-## Operating Systems
+
+### Operating Systems
+
 - [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
 - [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
-## Architecture Patterns
+
+### Architecture Patterns
+
 - [x] [N-Tier](./architecture-patterns/n-tier.md)
 - [x] [Event Driven](./architecture-patterns/event-driven.md)
 - [x] [Monolith](./architecture-patterns/monolith.md)
 - [x] [IDesign](./architecture-patterns/idesign.md)
-## Analysis 
+
+### Analysis
+
 - [ ] [Capturing requirements](./analysis/capturing-requirements.md)
 - [ ] [UML use-cases and activity diagrams](./analysis/uml.md)
-## Project Work Styles
+
+### Project Work Styles
+
 - [ ] [Waterfall](./project-work-styles/waterfall.md)
 - [ ] [Agile methods](./project-work-styles/agile.md)
 - [ ] [SCRUM vs. Kanban](./project-work-styles/scrum-vs-kanban.md)
 - [ ] [#noestimates](./project-work-styles/no-estimates.md)
-## Design Patterns
+
+### Design Patterns
+
 - [ ] [Gang of Four](./design-patterns/gang-of-four.md)
 - [ ] [Hexagonal Architecture](./design-patterns/hexagonal-architecture.md)
 - [ ] [Clean Architecture](./design-patterns/clean-architecture.md)
 - [ ] [UML](./design-patterns/uml.md)
-## Computer Science and Development Fundamentals
+
+### Computer Science and Development Fundamentals
+
 - [ ] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
 - [ ] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
 - [ ] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structure.md)
@@ -74,33 +94,45 @@
 - [ ] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
 - [ ] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
 - [ ] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
-## APIs
+
+### APIs
+
 - [ ] [RPC vs. REST](./apis/rpc-vs-rest.md)
 - [ ] [Idempotent behaviour](./apis/idempotent-behaviour.md)
 - [ ] [Documenting APIs and IDL](./apis/documenting-apis-and-idl.md)
-## DevOps
+
+### DevOps
+
 - [ ] [Pipelines](./devops/pipelines.md)
 - [ ] [PR's and everything-as-code](./devops/prs-and-everything-as-code.md)
 - [ ] [Automated tests](./devops/automated-tests.md)
 - [ ] [Linters and Code Quality Tools](./devops/linters-and-code-quality-tools.md)
 - [ ] [Observability](./devops/observability.md)
-## Infrastructure and Hardware
+
+### Infrastructure and Hardware
+
 - [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
 - [ ] [How do virtual machines work?](./infrastructure-and-hardware/virtual-machines.md)
 - [ ] [How do SANs work?](./infrastructure-and-hardware/sans.md)
 - [ ] [Memory access times](./infrastructure-and-hardware/memory-access-times.md)
 - [ ] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
 - [ ] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
-## Containers
+
+### Containers
+
 - [ ] [Fundamentals](./containers/fundamentals.md)
 - [ ] [Linux on Windows](./containers/linux-on-windows.md)
 - [ ] [Repositories and Tagging](./containers/repositories-and-tagging.md)
-## Kubernetes
+
+### Kubernetes
+
 - [ ] [Architecture - K8s components](./kubernetes/architecture-k8s-components.md)
 - [ ] [Kinds of Resources](./kubernetes/kinds-of-resources.md)
 - [ ] [Health Checks](./kubernetes/health-checks.md)
 - [ ] [Helm](./kubernetes/helm.md)
-## Artificial Intelligence
+
+### Artificial Intelligence
+
 - [ ] [Machine Learning](./artificial-intelligence/machine-learning.md)
 - [ ] [Deep Learning](./artificial-intelligence/deep-learning.md)
 - [ ] [Neural Networks](./artificial-intelligence/neural-networks.md)
