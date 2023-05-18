@@ -1,11 +1,13 @@
 # Event Driven Architecture
 
 ## Definition
+
 An event-driven architecture uses events to trigger and communicate between decoupled services and is common in modern applications built with microservices.
 
 ## Notes
+
 - An event is a change in state, or an update, like an item being placed in a shopping cart on an e-commerce website. Events can either carry the state (the item purchased, its price, and a delivery address) or events can be identifiers (a notification that an order was shipped).
-- Event-driven architectures have three key components: 
+- Event-driven architectures have three key components:
   - Producers
   - Routers
   - Consumers
@@ -16,6 +18,7 @@ An event-driven architecture uses events to trigger and communicate between deco
   - High volume and high velocity of data, such as IoT.
 
 ## Advantages vs Disadvantages
+
 | Advantages | Disadvantages |
 | ---------- | ------------- |
 | Loose coupling | Duplicated events |
@@ -24,6 +27,7 @@ An event-driven architecture uses events to trigger and communicate between deco
 | | Lack of clear workflow order |
 
 ## Sources
-- https://aws.amazon.com/event-driven-architecture/#:~:text=What%20is%20an%20Event%2DDriven,modern%20applications%20built%20with%20microservices.
-- https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
-- https://www.techtarget.com/searchapparchitecture/tip/Event-driven-architecture-pros-and-cons-Is-EDA-worth-it
+
+- <https://aws.amazon.com/event-driven-architecture/#:~:text=What%20is%20an%20Event%2DDriven,modern%20applications%20built%20with%20microservices>.
+- <https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven>
+- <https://www.techtarget.com/searchapparchitecture/tip/Event-driven-architecture-pros-and-cons-Is-EDA-worth-it>

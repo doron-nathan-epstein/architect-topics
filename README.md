@@ -72,7 +72,7 @@
 
 ### Design Patterns
 
-- [ ] [Gang of Four](./design-patterns/gang-of-four.md)
+- [x] [Gang of Four](./design-patterns/gang-of-four.md)
 - [ ] [Hexagonal Architecture](./design-patterns/hexagonal-architecture.md)
 - [ ] [Clean Architecture](./design-patterns/clean-architecture.md)
 - [ ] [UML](./design-patterns/uml.md)
