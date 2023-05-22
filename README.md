@@ -18,6 +18,9 @@
   - [Containers](#containers)
   - [Kubernetes](#kubernetes)
   - [Artificial Intelligence](#artificial-intelligence)
+- [Blogs](#blogs)
+  - [Santosh Pai](#santosh-pai)
+  - [Arslan Ahmad](#arslan-ahmad)
 
 ## Context
 
@@ -138,3 +141,14 @@
 - [ ] [Neural Networks](./artificial-intelligence/neural-networks.md)
 - [ ] [Training and Labelling](./artificial-intelligence/training-and-labelling.md)
 - [ ] [ML.NET](./artificial-intelligence/ml-net.md)
+
+## Blogs
+
+### Santosh Pai
+
+- [12 factor Microservice applications — on Kubernetes](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)
+- [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
+
+### Arslan Ahmad
+
+- [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
