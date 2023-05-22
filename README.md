@@ -77,7 +77,7 @@
 
 - [x] [Gang of Four](./design-patterns/gang-of-four.md)
 - [x] [Hexagonal Architecture](./design-patterns/hexagonal-architecture.md)
-- [ ] [Clean Architecture](./design-patterns/clean-architecture.md)
+- [x] [Clean Architecture](./design-patterns/clean-architecture.md)
 - [ ] [UML](./design-patterns/uml.md)
 
 ### Computer Science and Development Fundamentals
