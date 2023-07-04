@@ -34,10 +34,9 @@
 ### Security
 
 - [x] [Hashing](./security/hashing.md)
-- [ ] [Encryption](./security/encryption.md)
+- [x] [Encryption](./security/encryption.md)
 - [ ] [JWT's](./security/jwt.md)
 - [x] [Certificates](./security/certificates.md)
-- [ ] [Symmetric and Asymmetric encryption](./security/symmetric-vs-asymmetric-encryption.md)
 
 ### Testing
 

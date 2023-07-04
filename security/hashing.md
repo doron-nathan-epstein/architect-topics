@@ -26,7 +26,6 @@ Hashing is the process of transforming any given key or a string of characters i
 - Hashing in cybersecurity demands unidirectional processes that use a one-way hashing algorithm. It is a crucial step in stopping threat actors from reverse engineering a hash back to its original state. At the same time, two keys can also generate an identical hash. This phenomenon is called a collision.
 - A good hash function never produces the same hash value from two different inputs. As such, a hash function that comes with an extremely low risk of collision is considered acceptable.
 - To further ensure the uniqueness of encrypted outputs, cybersecurity professionals can also add random data into the hash function. This approach, known as "salting," guarantees a unique output even when the inputs are identical. Salting obstructs bad actors from accessing non-unique passwords. This is because each hash value is unique, even when users reuse their passwords. Salting adds another layer of security to thwart rainbow table attacks.
-- 
 
 ## Sources
 
