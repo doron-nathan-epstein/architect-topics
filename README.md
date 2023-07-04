@@ -33,7 +33,7 @@
 
 ### Security
 
-- [ ] [Hashing](./security/hashing.md)
+- [x] [Hashing](./security/hashing.md)
 - [ ] [Encryption](./security/encryption.md)
 - [ ] [JWT's](./security/jwt.md)
 - [x] [Certificates](./security/certificates.md)
