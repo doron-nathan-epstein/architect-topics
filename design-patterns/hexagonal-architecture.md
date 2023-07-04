@@ -25,6 +25,6 @@ Hexagonal architecture is an architectural pattern for building software systems
 
 ## Sources
 
-- <https://cardoai.com/what-is-hexagonal-architecture-should-you-use-it/#:~:text=Hexagonal%20architecture%20is%20an%20architectural,the%20technical%20aspects%20of%20it.>
+- <https://cardoai.com/what-is-hexagonal-architecture-should-you-use-it/>
 - <https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c>
 - <https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749>
