@@ -36,7 +36,7 @@
 - [ ] [Hashing](./security/hashing.md)
 - [ ] [Encryption](./security/encryption.md)
 - [ ] [JWT's](./security/jwt.md)
-- [ ] [Certificates](./security/certificates.md)
+- [x] [Certificates](./security/certificates.md)
 - [ ] [Symmetric and Asymmetric encryption](./security/symmetric-vs-asymmetric-encryption.md)
 
 ### Testing
@@ -88,7 +88,7 @@
 - [ ] [Bitwise operators](./computer-science-development-fundamentals/bitwise-operators.md)
 - [ ] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
 - [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
-- [ ] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
+- [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
 - [ ] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exlusion-primitives.md)
 - [ ] [CAP Theorem](./computer-science-development-fundamentals/cap-theorem.md)
 - [ ] [Eventual Consistency](./computer-science-development-fundamentals/eventual-consistency.md)
