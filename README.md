@@ -92,7 +92,7 @@
 - [ ] [CAP Theorem](./computer-science-development-fundamentals/cap-theorem.md)
 - [ ] [Eventual Consistency](./computer-science-development-fundamentals/eventual-consistency.md)
 - [ ] [Saga Pattern](./computer-science-development-fundamentals/saga-pattern.md)
-- [ ] [N Phase Commit](./computer-science-development-fundamentals/n-phase-commit.md)
+- [x] [N Phase Commit](./computer-science-development-fundamentals/n-phase-commit.md)
 - [ ] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
 - [ ] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
 - [ ] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
