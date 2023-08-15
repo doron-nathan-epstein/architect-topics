@@ -89,7 +89,7 @@
 - [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
 - [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
 - [ ] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exlusion-primitives.md)
-- [ ] [CAP Theorem](./computer-science-development-fundamentals/cap-theorem.md)
+- [x] [CAP Theorem](./computer-science-development-fundamentals/cap-theorem.md)
 - [ ] [Eventual Consistency](./computer-science-development-fundamentals/eventual-consistency.md)
 - [x] [Saga Pattern](./computer-science-development-fundamentals/saga-pattern.md)
 - [x] [N Phase Commit](./computer-science-development-fundamentals/n-phase-commit.md)
