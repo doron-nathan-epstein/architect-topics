@@ -2,144 +2,139 @@
 
 - [Context](#context)
 - [Topics](#topics)
-  - [High Availability](#high-availability)
-  - [Security](#security)
-  - [Testing](#testing)
-  - [Performance](#performance)
-  - [Operating Systems](#operating-systems)
-  - [Architecture Patterns](#architecture-patterns)
-  - [Analysis](#analysis)
-  - [Project Work Styles](#project-work-styles)
-  - [Design Patterns](#design-patterns)
+  - [Patterns](#patterns)
+    - [Architecture Patterns](#architecture-patterns)
+    - [Design Patterns](#design-patterns)
   - [Computer Science and Development Fundamentals](#computer-science-and-development-fundamentals)
-  - [APIs](#apis)
+    - [APIs](#apis)
+    - [Infrastructure and Hardware](#infrastructure-and-hardware)
+    - [Security](#security)
+  - [Distributed Systems](#distributed-systems)
+  - [Technologies](#technologies)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Containers](#containers)
+    - [Kubernetes](#kubernetes)
   - [DevOps](#devops)
-  - [Infrastructure and Hardware](#infrastructure-and-hardware)
-  - [Containers](#containers)
-  - [Kubernetes](#kubernetes)
-  - [Artificial Intelligence](#artificial-intelligence)
+    - [Analysis \& Project Work Styles](#analysis--project-work-styles)
+    - [Testing](#testing)
 - [Blogs](#blogs)
   - [Santosh Pai](#santosh-pai)
   - [Arslan Ahmad](#arslan-ahmad)
+- [Books](#books)
 
 ## Context
 
 ## Topics
 
-### High Availability
+### Patterns
 
-- [ ] [Applications](./high-availablity/applications.md)
-- [ ] [Databases](./high-availablity/databases.md)
+#### Architecture Patterns
 
-### Security
+- [x] [Event Driven](./patterns/architecture-patterns/event-driven.md)
+- [x] [IDesign](./patterns/architecture-patterns/idesign.md)
+- [x] [Monolith](./patterns/architecture-patterns/monolith.md)
+- [x] [N-Tier](./patterns/architecture-patterns/n-tier.md)
 
-- [x] [Hashing](./security/hashing.md)
-- [x] [Encryption](./security/encryption.md)
-- [ ] [JWT's](./security/jwt.md)
-- [x] [Certificates](./security/certificates.md)
+#### Design Patterns
 
-### Testing
-
-- [ ] [The test pyramid](./testing/test-pyramid.md)
-- [ ] [Kinds of tests, techniques for each](./testing/test-techniques.md)
-
-### Performance
-
-- [ ] [Threads](./performance/threads.md)
-- [ ] [How async/await works](./performance/async-await.md)
-
-### Operating Systems
-
-- [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
-- [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
-
-### Architecture Patterns
-
-- [x] [N-Tier](./architecture-patterns/n-tier.md)
-- [x] [Event Driven](./architecture-patterns/event-driven.md)
-- [x] [Monolith](./architecture-patterns/monolith.md)
-- [x] [IDesign](./architecture-patterns/idesign.md)
-
-### Analysis
-
-- [ ] [Capturing requirements](./analysis/capturing-requirements.md)
-- [ ] [UML use-cases and activity diagrams](./analysis/uml.md)
-
-### Project Work Styles
-
-- [ ] [Waterfall](./project-work-styles/waterfall.md)
-- [ ] [Agile methods](./project-work-styles/agile.md)
-- [ ] [SCRUM vs. Kanban](./project-work-styles/scrum-vs-kanban.md)
-- [ ] [#noestimates](./project-work-styles/no-estimates.md)
-
-### Design Patterns
-
-- [x] [Gang of Four](./design-patterns/gang-of-four.md)
-- [x] [Hexagonal Architecture](./design-patterns/hexagonal-architecture.md)
-- [x] [Clean Architecture](./design-patterns/clean-architecture.md)
-- [ ] [UML](./design-patterns/uml.md)
+- [x] [Clean Architecture](./patterns/design-patterns/clean-architecture.md)
+- [x] [Gang of Four](./patterns/design-patterns/gang-of-four.md)
+- [x] [Hexagonal Architecture](./patterns/design-patterns/hexagonal-architecture.md)
 
 ### Computer Science and Development Fundamentals
 
-- [ ] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
-- [ ] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
-- [ ] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structure.md)
+- [ ] [How async/await works](./performance/async-await.md)
 - [ ] [Bitwise operators](./computer-science-development-fundamentals/bitwise-operators.md)
-- [ ] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
-- [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
-- [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
-- [ ] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exlusion-primitives.md)
-- [x] [CAP Theorem](./computer-science-development-fundamentals/cap-theorem.md)
-- [ ] [Eventual Consistency](./computer-science-development-fundamentals/eventual-consistency.md)
-- [x] [Saga Pattern](./computer-science-development-fundamentals/saga-pattern.md)
-- [x] [N Phase Commit](./computer-science-development-fundamentals/n-phase-commit.md)
-- [ ] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
+- [ ] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structure.md)
 - [ ] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
+- [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
+- [ ] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exlusion-primitives.md)
+- [ ] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
+- [ ] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
+- [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
 - [ ] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
+- [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
+- [ ] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
+- [ ] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
+- [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
 
-### APIs
+#### APIs
 
-- [ ] [RPC vs. REST](./apis/rpc-vs-rest.md)
-- [ ] [Idempotent behaviour](./apis/idempotent-behaviour.md)
-- [ ] [Documenting APIs and IDL](./apis/documenting-apis-and-idl.md)
+- [ ] [Documenting APIs and IDL](./computer-science-development-fundamentals/apis/documenting-apis-and-idl.md)
+- [ ] [Idempotent behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
+- [ ] [RPC vs. REST](./computer-science-development-fundamentals/apis/rpc-vs-rest.md)
+
+#### Infrastructure and Hardware
+
+- [ ] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
+- [ ] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
+- [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
+- [ ] [Memory access times](./infrastructure-and-hardware/memory-access-times.md)
+- [ ] [How do SANs work?](./infrastructure-and-hardware/sans.md)
+- [ ] [How do virtual machines work?](./infrastructure-and-hardware/virtual-machines.md)
+
+#### Security
+
+- [x] [Certificates](./computer-science-development-fundamentals/security/certificates.md)
+- [x] [Encryption](./computer-science-development-fundamentals/security/encryption.md)
+- [x] [Hashing](./computer-science-development-fundamentals/security/hashing.md)
+- [ ] [JWT's](./computer-science-development-fundamentals/security/jwt.md)
+
+### Distributed Systems
+
+- [x] [CAP Theorem](./distributed-systems/cap-theorem.md)
+- [ ] [Event Queue vs Message Queue](./distributed-systems/event-queue-vs-message-queue.md)
+- [ ] [Eventual Consistency](./distributed-systems/eventual-consistency.md)
+- [ ] [High Availability]()
+- [x] [N Phase Commit](./distributed-systems/n-phase-commit.md)
+- [x] [Saga Pattern](./distributed-systems/saga-pattern.md)
+
+### Technologies
+
+- [ ] [Kafka](./technologies/kafka.md)
+- [ ] [RabbitMQ](./technologies/rabbitmq.md)
+
+#### Artificial Intelligence
+
+- [ ] [Deep Learning](./technologies/artificial-intelligence/deep-learning.md)
+- [ ] [Machine Learning](./technologies/artificial-intelligence/machine-learning.md)
+- [ ] [ML.NET](./technologies/artificial-intelligence/ml-net.md)
+- [ ] [Neural Networks](./technologies/artificial-intelligence/neural-networks.md)
+- [ ] [Training and Labelling](./technologies/artificial-intelligence/training-and-labelling.md)
+
+#### Containers
+
+- [ ] [Fundamentals](./technologies/containers/fundamentals.md)
+- [ ] [Linux on Windows](./technologies/containers/linux-on-windows.md)
+- [ ] [Repositories and Tagging](./technologies/containers/repositories-and-tagging.md)
+
+#### Kubernetes
+
+- [ ] [Architecture - K8s components](./technologies/kubernetes/architecture-k8s-components.md)
+- [ ] [Health Checks](./technologies/kubernetes/health-checks.md)
+- [ ] [Helm](./technologies/kubernetes/helm.md)
 
 ### DevOps
 
-- [ ] [Pipelines](./devops/pipelines.md)
-- [ ] [PR's and everything-as-code](./devops/prs-and-everything-as-code.md)
-- [ ] [Automated tests](./devops/automated-tests.md)
 - [ ] [Linters and Code Quality Tools](./devops/linters-and-code-quality-tools.md)
 - [ ] [Observability](./devops/observability.md)
+- [ ] [Pipelines](./devops/pipelines.md)
+- [ ] [PR's and everything-as-code](./devops/prs-and-everything-as-code.md)
 
-### Infrastructure and Hardware
+#### Analysis & Project Work Styles
 
-- [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
-- [ ] [How do virtual machines work?](./infrastructure-and-hardware/virtual-machines.md)
-- [ ] [How do SANs work?](./infrastructure-and-hardware/sans.md)
-- [ ] [Memory access times](./infrastructure-and-hardware/memory-access-times.md)
-- [ ] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
-- [ ] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
+- [ ] [Agile methods](./devops/analysis/agile.md)
+- [ ] [Capturing requirements](./devops/analysis/capturing-requirements.md)
+- [ ] [#noestimates](./devops/analysis//no-estimates.md)
+- [ ] [SCRUM vs. Kanban](./devops/analysis//scrum-vs-kanban.md)
+- [ ] [UML use-cases and activity diagrams](./devops/analysis/uml.md)
+- [ ] [Waterfall](./devops/analysis/waterfall.md)
 
-### Containers
+#### Testing
 
-- [ ] [Fundamentals](./containers/fundamentals.md)
-- [ ] [Linux on Windows](./containers/linux-on-windows.md)
-- [ ] [Repositories and Tagging](./containers/repositories-and-tagging.md)
-
-### Kubernetes
-
-- [ ] [Architecture - K8s components](./kubernetes/architecture-k8s-components.md)
-- [ ] [Kinds of Resources](./kubernetes/kinds-of-resources.md)
-- [ ] [Health Checks](./kubernetes/health-checks.md)
-- [ ] [Helm](./kubernetes/helm.md)
-
-### Artificial Intelligence
-
-- [ ] [Machine Learning](./artificial-intelligence/machine-learning.md)
-- [ ] [Deep Learning](./artificial-intelligence/deep-learning.md)
-- [ ] [Neural Networks](./artificial-intelligence/neural-networks.md)
-- [ ] [Training and Labelling](./artificial-intelligence/training-and-labelling.md)
-- [ ] [ML.NET](./artificial-intelligence/ml-net.md)
+- [ ] [Automated tests](./devops/testing/automated-tests.md)
+- [ ] [The test pyramid](./devops/testing/test-pyramid.md)
+- [ ] [Kinds of tests, techniques for each](./devops/testing/test-techniques.md)
 
 ## Blogs
 
@@ -152,3 +147,5 @@
 
 - [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
 - [I Wish I Knew These 10 Software Architectural Styles Before the Interview](https://levelup.gitconnected.com/i-wish-i-knew-these-10-software-architectural-styles-before-the-interview-b08d8224433f)
+
+## Books
