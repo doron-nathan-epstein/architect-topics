@@ -61,7 +61,7 @@
 #### APIs
 
 - [ ] [Documenting APIs and IDL](./computer-science-development-fundamentals/apis/documenting-apis-and-idl.md)
-- [ ] [Idempotent behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
+- [ ] [Idempotent Behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
 - [ ] [RPC vs. REST](./computer-science-development-fundamentals/apis/rpc-vs-rest.md)
 
 #### Infrastructure and Hardware
@@ -85,7 +85,7 @@
 - [x] [CAP Theorem](./distributed-systems/cap-theorem.md)
 - [ ] [Event Queue vs Message Queue](./distributed-systems/event-queue-vs-message-queue.md)
 - [ ] [Eventual Consistency](./distributed-systems/eventual-consistency.md)
-- [ ] [High Availability]()
+- [ ] [High Availability](./distributed-systems/high-availability.md)
 - [x] [N Phase Commit](./distributed-systems/n-phase-commit.md)
 - [x] [Saga Pattern](./distributed-systems/saga-pattern.md)
 
