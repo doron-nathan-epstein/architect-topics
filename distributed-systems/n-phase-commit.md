@@ -18,7 +18,6 @@ This protocol requires a coordinator. The client contacts the coordinator and pr
 2. After receiving all the responses, the coordinator makes a decision to commit if all participants agreed upon the value or abort if someone disagrees.
 3. In the second phase, coordinator contacts all participants again and communicates the commit or abort decision.
 
-
 ## 3 Phase Commit (3PC)
 
 ![3PC](https://www.researchgate.net/profile/Neeraj-Suri/publication/267854236/figure/fig3/AS:647167379267586@1531308135544/The-3-phase-commit-protocol.png)
@@ -39,3 +38,4 @@ This is an extension of two-phase commit wherein the commit phase is split into 
 ## Sources
 
 - <https://medium.com/@balrajasubbiah/consensus-two-phase-and-three-phase-commits-4e35c1a435ac>
+  
