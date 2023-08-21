@@ -149,3 +149,7 @@
 - [I Wish I Knew These 10 Software Architectural Styles Before the Interview](https://levelup.gitconnected.com/i-wish-i-knew-these-10-software-architectural-styles-before-the-interview-b08d8224433f)
 
 ## Books
+
+- Designing Data-Intensive Applications - Martin Kleppmann
+  - [PDF](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
+  - [Learning Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
