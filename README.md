@@ -83,7 +83,7 @@
 ### Distributed Systems
 
 - [x] [CAP Theorem](./distributed-systems/cap-theorem.md)
-- [ ] [Event Queue vs Message Queue](./distributed-systems/event-queue-vs-message-queue.md)
+- [x] [Event Queue vs Message Queue](./distributed-systems/event-queue-vs-message-queue.md)
 - [ ] [Eventual Consistency](./distributed-systems/eventual-consistency.md)
 - [x] [High Availability](./distributed-systems/high-availability.md)
 - [x] [N Phase Commit](./distributed-systems/n-phase-commit.md)
