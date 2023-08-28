@@ -32,6 +32,7 @@
 
 - [x] [Event Driven](./patterns/architecture-patterns/event-driven.md)
 - [x] [IDesign](./patterns/architecture-patterns/idesign.md)
+- [x] [Interview Notes](./patterns/architecture-patterns/interview-notes.md)
 - [x] [Monolith](./patterns/architecture-patterns/monolith.md)
 - [x] [N-Tier](./patterns/architecture-patterns/n-tier.md)
 
