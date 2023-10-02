@@ -93,7 +93,7 @@
 ### Technologies
 
 - [x] [Database Types](/.technologies/database-types.md)
-- [ ] [Kafka](./technologies/kafka.md)
+- [x] [Kafka](./technologies/kafka.md)
 - [ ] [RabbitMQ](./technologies/rabbitmq.md)
 
 #### Artificial Intelligence
