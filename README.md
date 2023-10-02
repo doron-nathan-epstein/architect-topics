@@ -92,6 +92,7 @@
 
 ### Technologies
 
+- [x] [Database Types](/.technologies/database-types.md)
 - [ ] [Kafka](./technologies/kafka.md)
 - [ ] [RabbitMQ](./technologies/rabbitmq.md)
 
