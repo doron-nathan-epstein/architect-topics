@@ -94,7 +94,7 @@
 
 - [x] [Database Types](/.technologies/database-types.md)
 - [x] [Kafka](./technologies/kafka.md)
-- [ ] [RabbitMQ](./technologies/rabbitmq.md)
+- [x] [RabbitMQ](./technologies/rabbitmq.md)
 
 #### Artificial Intelligence
 
