@@ -79,7 +79,7 @@
 - [x] [Certificates](./computer-science-development-fundamentals/security/certificates.md)
 - [x] [Encryption](./computer-science-development-fundamentals/security/encryption.md)
 - [x] [Hashing](./computer-science-development-fundamentals/security/hashing.md)
-- [ ] [JWT's](./computer-science-development-fundamentals/security/jwt.md)
+- [x] [JWT's](./computer-science-development-fundamentals/security/jwt.md)
 
 ### Distributed Systems
 
