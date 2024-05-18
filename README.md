@@ -68,7 +68,7 @@
 #### Infrastructure and Hardware
 
 - [ ] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
-- [ ] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
+- [x] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
 - [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
 - [ ] [Memory access times](./infrastructure-and-hardware/memory-access-times.md)
 - [ ] [How do SANs work?](./infrastructure-and-hardware/sans.md)
