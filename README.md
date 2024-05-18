@@ -46,10 +46,10 @@
 
 - [ ] [How async/await works](./performance/async-await.md)
 - [x] [Bitwise operators](./computer-science-development-fundamentals/bitwise-operators.md)
-- [x] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structure.md)
+- [x] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structures.md)
 - [x] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
-- [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
-- [ ] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exlusion-primitives.md)
+- [x] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
+- [x] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exclusion-primitives.md)
 - [ ] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
 - [ ] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
 - [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
