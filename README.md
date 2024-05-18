@@ -55,7 +55,7 @@
 - [x] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
 - [x] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
 - [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
-- [ ] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
+- [x] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
 - [ ] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
 - [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
 
