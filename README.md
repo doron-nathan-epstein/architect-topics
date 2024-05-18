@@ -62,7 +62,7 @@
 #### APIs
 
 - [ ] [Documenting APIs and IDL](./computer-science-development-fundamentals/apis/documenting-apis-and-idl.md)
-- [ ] [Idempotent Behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
+- [x] [Idempotent Behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
 - [ ] [RPC vs. REST](./computer-science-development-fundamentals/apis/rpc-vs-rest.md)
 
 #### Infrastructure and Hardware
