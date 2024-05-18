@@ -52,7 +52,7 @@
 - [x] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exclusion-primitives.md)
 - [x] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
 - [x] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
-- [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
+- [x] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
 - [ ] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
 - [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
 - [ ] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
