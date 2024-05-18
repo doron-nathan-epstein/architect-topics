@@ -57,7 +57,7 @@
 - [x] [TCP vs. UDP](./computer-science-development-fundamentals/tcp-vs-udp.md)
 - [x] [Unicode and Character Encoding](./computer-science-development-fundamentals/unicode-character-encoding.md)
 - [x] [Values vs Reference Types](./computer-science-development-fundamentals/value-vs-reference-types.md)
-- [ ] [Virtual Memory](./operating-systems/virtual-memory.md)
+- [x] [Virtual Memory](./computer-science-development-fundamentals/virtual-memory.md)
 
 #### APIs
 
