@@ -50,7 +50,7 @@
 - [x] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
 - [x] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
 - [x] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exclusion-primitives.md)
-- [ ] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
+- [x] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
 - [x] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
 - [ ] [Protocols and Serialization](./computer-science-development-fundamentals/protocols-and-serialization.md)
 - [ ] [Runtimes and Intermediate-languages (e.g. JAVA, .NET)](./computer-science-development-fundamentals/runtimes-and-intermediate-languages.md)
