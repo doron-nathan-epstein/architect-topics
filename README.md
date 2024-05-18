@@ -61,7 +61,7 @@
 
 #### APIs
 
-- [ ] [Documenting APIs and IDL](./computer-science-development-fundamentals/apis/documenting-apis-and-idl.md)
+- [x] [Documenting APIs and IDL](./computer-science-development-fundamentals/apis/documenting-apis-and-idl.md)
 - [x] [Idempotent Behaviour](./computer-science-development-fundamentals/apis/idempotent-behaviour.md)
 - [x] [RPC vs. REST](./computer-science-development-fundamentals/apis/rpc-vs-rest.md)
 
