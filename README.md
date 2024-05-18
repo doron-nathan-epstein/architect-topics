@@ -45,7 +45,7 @@
 ### Computer Science and Development Fundamentals
 
 - [ ] [How async/await works](./performance/async-await.md)
-- [ ] [Bitwise operators](./computer-science-development-fundamentals/bitwise-operators.md)
+- [x] [Bitwise operators](./computer-science-development-fundamentals/bitwise-operators.md)
 - [ ] [Collection Data Structures](./computer-science-development-fundamentals/collection-data-structure.md)
 - [ ] [Compiled vs. Interpreted languages](./computer-science-development-fundamentals/compiled-vs-interpreted-languages.md)
 - [ ] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)

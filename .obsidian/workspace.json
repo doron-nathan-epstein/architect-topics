@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d513cb2e6103e27d",
+        "id": "d91ea687564d1781",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd441b5bddbb8a9",
+            "id": "9df070019de6e3a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "analysis/analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,12 +60,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "806fd2b08251f87e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "efc1290d995af329",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analysis/analysis.md",
+                "file": "distributed-systems/high-availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "analysis/analysis.md",
+                "file": "distributed-systems/high-availability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +130,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "analysis/analysis.md"
+                "file": "distributed-systems/high-availability.md"
               }
+            }
+          },
+          {
+            "id": "9a1cd0dc18d6e0ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -147,8 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dd441b5bddbb8a9",
+  "active": "e477b99a6546820d",
   "lastOpenFiles": [
+    "distributed-systems/n-phase-commit.md",
+    "distributed-systems/saga-pattern.md",
     "analysis/capturing-requirements.md",
     "analysis/uml.md",
     "analysis/analysis.md",
