@@ -151,7 +151,7 @@ The purpose of this repository is to organize and present key topics and concept
   - [x] [Machine Learning](./technologies/artificial-intelligence/machine-learning.md)
   - [ ] [ML.NET](./technologies/artificial-intelligence/ml-net.md)
   - [x] [Neural Networks](./technologies/artificial-intelligence/neural-networks.md)
-  - [ ] [Training and Labelling](./technologies/artificial-intelligence/training-and-labelling.md)
+  - [x] [Training and Labeling](./technologies/artificial-intelligence/training-and-labeling.md)
 
 ### 10. Containers and Kubernetes
 
