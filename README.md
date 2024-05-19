@@ -14,6 +14,8 @@
   - [9. Technologies](#9-technologies)
   - [10. Containers and Kubernetes](#10-containers-and-kubernetes)
   - [11. DevOps](#11-devops)
+- [Blogs](#blogs)
+- [Books](#books)
 - [Potential Missing Topics](#potential-missing-topics)
   - [Advanced Architecture Patterns](#advanced-architecture-patterns)
   - [Software Development Principles](#software-development-principles)
@@ -24,10 +26,6 @@
   - [Data Engineering](#data-engineering)
   - [Emerging Technologies](#emerging-technologies)
   - [Miscellaneous](#miscellaneous)
-- [Blogs](#blogs)
-  - [Santosh Pai](#santosh-pai)
-  - [Arslan Ahmad](#arslan-ahmad)
-- [Books](#books)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contribution](#contribution)
 
@@ -150,7 +148,7 @@ The purpose of this repository is to organize and present key topics and concept
   - [x] [RabbitMQ](./technologies/rabbitmq.md)
 - **Artificial Intelligence**
   - [x] [Deep Learning](./technologies/artificial-intelligence/deep-learning.md)
-  - [ ] [Machine Learning](./technologies/artificial-intelligence/machine-learning.md)
+  - [x] [Machine Learning](./technologies/artificial-intelligence/machine-learning.md)
   - [ ] [ML.NET](./technologies/artificial-intelligence/ml-net.md)
   - [ ] [Neural Networks](./technologies/artificial-intelligence/neural-networks.md)
   - [ ] [Training and Labelling](./technologies/artificial-intelligence/training-and-labelling.md)
@@ -187,6 +185,21 @@ The purpose of this repository is to organize and present key topics and concept
   - [ ] [The test pyramid](./devops/testing/test-pyramid.md)
   - [ ] [Kinds of tests, techniques for each](./devops/testing/test-techniques.md)
 
+## Blogs
+
+- **Santosh Pai**
+  - [12 factor Microservice applications — on Kubernetes](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)
+  - [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
+- **Arslan Ahmad**
+  - [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
+  - [I Wish I Knew These 10 Software Architectural Styles Before the Interview](https://levelup.gitconnected.com/i-wish-i-knew-these-10-software-architectural-styles-before-the-interview-b08d8224433f)
+
+## Books
+
+- **Designing Data-Intensive Applications - Martin Kleppmann**
+  - [PDF](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
+  - [Learning Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
+  
 ## Potential Missing Topics
 
 ### Advanced Architecture Patterns
@@ -250,24 +263,6 @@ The purpose of this repository is to organize and present key topics and concept
 - Risk Management
 - Legal and Ethical Issues in Software Development
 - Communication Skills for Architects
-
-## Blogs
-
-### Santosh Pai
-
-- [12 factor Microservice applications — on Kubernetes](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)
-- [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
-
-### Arslan Ahmad
-
-- [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
-- [I Wish I Knew These 10 Software Architectural Styles Before the Interview](https://levelup.gitconnected.com/i-wish-i-knew-these-10-software-architectural-styles-before-the-interview-b08d8224433f)
-
-## Books
-
-- Designing Data-Intensive Applications - Martin Kleppmann
-  - [PDF](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
-  - [Learning Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
 
 ## How to Use This Repository
 
