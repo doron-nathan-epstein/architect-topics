@@ -161,7 +161,7 @@ The purpose of this repository is to organize and present key topics and concept
   - [x] [Repositories and Tagging](./containers-kubernetes/containers/repositories-and-tagging.md)
 - **Kubernetes**
   - [x] [Architecture - K8s components](./containers-kubernetes/kubernetes/architecture-k8s-components.md)
-  - [ ] [Health Checks](./containers-kubernetes/kubernetes/health-checks.md)
+  - [x] [Health Checks](./containers-kubernetes/kubernetes/health-checks.md)
   - [ ] [Helm](./containers-kubernetes/kubernetes/helm.md)
 
 ### 11. DevOps
