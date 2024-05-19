@@ -98,7 +98,7 @@
 
 #### Artificial Intelligence
 
-- [ ] [Deep Learning](./technologies/artificial-intelligence/deep-learning.md)
+- [x] [Deep Learning](./technologies/artificial-intelligence/deep-learning.md)
 - [ ] [Machine Learning](./technologies/artificial-intelligence/machine-learning.md)
 - [ ] [ML.NET](./technologies/artificial-intelligence/ml-net.md)
 - [ ] [Neural Networks](./technologies/artificial-intelligence/neural-networks.md)
