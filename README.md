@@ -129,7 +129,7 @@ The purpose of this repository is to organize and present key topics and concept
 - **Caching**
   - [x] [Caches and False Cache-line Invalidation](./infrastructure-and-hardware/caches-and-false-cacheline-invalidation.md)
 - **Instruction Sets**
-  - [ ] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
+  - [x] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
 - **Firewalls**
   - [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
 - **Memory Access**
