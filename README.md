@@ -111,7 +111,7 @@ The purpose of this repository is to organize and present key topics and concept
 ### 6. Performance
 
 - **Asynchronous Programming**
-  - [ ] [How async/await works](./performance/async-await.md)
+  - [x] [How async/await works](./performance/async-await.md)
 - **Low-Level Performance**
   - [x] [Bitwise operators](./performance/bitwise-operators.md)
 
