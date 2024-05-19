@@ -162,7 +162,7 @@ The purpose of this repository is to organize and present key topics and concept
 - **Kubernetes**
   - [x] [Architecture - K8s components](./containers-kubernetes/kubernetes/architecture-k8s-components.md)
   - [x] [Health Checks](./containers-kubernetes/kubernetes/health-checks.md)
-  - [ ] [Helm](./containers-kubernetes/kubernetes/helm.md)
+  - [x] [Helm](./containers-kubernetes/kubernetes/helm.md)
 
 ### 11. DevOps
 
