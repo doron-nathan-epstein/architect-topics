@@ -156,9 +156,9 @@ The purpose of this repository is to organize and present key topics and concept
 ### 10. Containers and Kubernetes
 
 - **Containers**
-  - [ ] [Fundamentals](./containers-kubernetes/containers/fundamentals.md)
-  - [ ] [Linux on Windows](./containers-kubernetes/containers/linux-on-windows.md)
-  - [ ] [Repositories and Tagging](./containers-kubernetes/containers/repositories-and-tagging.md)
+  - [x] [Fundamentals](./containers-kubernetes/containers/fundamentals.md)
+  - [x] [Linux on Windows](./containers-kubernetes/containers/linux-on-windows.md)
+  - [x] [Repositories and Tagging](./containers-kubernetes/containers/repositories-and-tagging.md)
 - **Kubernetes**
   - [ ] [Architecture - K8s components](./containers-kubernetes/kubernetes/architecture-k8s-components.md)
   - [ ] [Health Checks](./containers-kubernetes/kubernetes/health-checks.md)
