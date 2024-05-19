@@ -131,7 +131,7 @@ The purpose of this repository is to organize and present key topics and concept
 - **Instruction Sets**
   - [x] [32-bit and 64-bit instruction sets](./infrastructure-and-hardware/32bit-and-64bit-instruction-sets.md)
 - **Firewalls**
-  - [ ] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
+  - [x] [How do firewalls work?](./infrastructure-and-hardware/firewalls.md)
 - **Memory Access**
   - [ ] [Memory access times](./infrastructure-and-hardware/memory-access-times.md)
 - **Storage Area Networks (SANs)**
