@@ -47,7 +47,7 @@ The purpose of this repository is to organize and present key topics and concept
 - **Layered Architecture**
   - [x] [N-Tier](./architecture-patterns/n-tier.md)
 - **Event-Driven Architecture**
-  - [x] [Event Driven](.//event-driven.md)
+  - [x] [Event Driven](./architecture-patterns/event-driven.md)
 - **Hexagonal Architecture**
   - [x] [Hexagonal Architecture](./architecture-patterns/hexagonal-architecture.md)
 - **Clean Architecture**
@@ -67,7 +67,8 @@ The purpose of this repository is to organize and present key topics and concept
 - **Algorithm Complexity**
   - [x] [O(n) notation](./computer-science-development-fundamentals/o-notation.md)
 - **Concurrency**
-  - [x] [Mutual Exclusion](./operating-systems/mutual-exclusion.md)
+  - [x] [Deadlocks](./computer-science-development-fundamentals/deadlocks.md)
+  - [x] [Mutual Exclusion](./computer-science-development-fundamentals/mutual-exclusion.md)
   - [x] [Mutual Exclusion Primitives](./computer-science-development-fundamentals/mutual-exclusion-primitives.md)
   - [x] [Optimistic Locking](./computer-science-development-fundamentals/optimistic-locking.md)
 - **Data Structures**
