@@ -27,6 +27,29 @@ Consider two transactions, T1 and T2, in a database system:
 
 Here, T1 cannot proceed because it is waiting for R2, which is held by T2. Conversely, T2 cannot proceed because it is waiting for R1, which is held by T1. This situation creates a circular wait, leading to a deadlock.
 
+```mermaid
+
+sequenceDiagram
+    participant P1 as Process 1
+    participant R1 as Resource 1
+    participant P2 as Process 2
+    participant R2 as Resource 2
+
+    P1->>R1: Requests Resource 1
+    R1-->>P1: Acquired
+    P2->>R2: Requests Resource 2
+    R2-->>P2: Acquired
+
+    P1->>R2: Requests Resource 2
+    R2-->>P1: Waiting
+    P2->>R1: Requests Resource 1
+    R1-->>P2: Waiting
+
+    Note over P1, P2: Deadlock occurs as both processes wait indefinitely.
+
+
+```
+
 ## Deadlock Detection and Resolution
 
 To handle deadlocks, systems typically use one or more of the following approaches:
