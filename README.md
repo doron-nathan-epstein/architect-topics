@@ -46,7 +46,7 @@ The purpose of this repository is to organize and present key topics and concept
 - Testing
 - Programming Paradigms
   - [x] [Compiled vs. Interpreted languages](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
-  - [ ] Runtimes and Intermediate-languages (e.g., JAVA, .NET)
+  - [x] [Runtimes and Intermediate-languages (e.g., JAVA, .NET)](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
 
 ### 3. Advanced Programming and Design
 
