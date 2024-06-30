@@ -63,12 +63,12 @@ The purpose of this repository is to organize and present key topics and concept
 ### 5. Software Architecture Fundamentals
 
 - Architecture Patterns
-  - Monolithic Architecture (Monolith)
-  - Layered Architecture (N-Tier)
-  - Event-Driven Architecture (Event Driven)
-  - Hexagonal Architecture
-  - Clean Architecture
-  - IDesign Method
+  - [Monolithic Architecture (Monolith)](./software-architecture-fundamentals/architecture-patterns/monolithic-architecture.md)
+  - [Layered Architecture (N-Tier)](./software-architecture-fundamentals/architecture-patterns/layered-architecture.md)
+  - [Event-Driven Architecture (Event Driven)](./software-architecture-fundamentals/architecture-patterns/event-driven-architecture.md)
+  - [Hexagonal Architecture](./software-architecture-fundamentals/architecture-patterns/hexagonal-architecture.md)
+  - [Clean Architecture](./software-architecture-fundamentals/architecture-patterns/clean-architecture.md)
+  - [IDesign Method](./software-architecture-fundamentals/architecture-patterns/idesign-method.md)
 - Principles and Best Practices
   - SOLID Principles
   - DRY, KISS, YAGNI
