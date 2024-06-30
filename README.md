@@ -70,8 +70,8 @@ The purpose of this repository is to organize and present key topics and concept
   - [Clean Architecture](./software-architecture-fundamentals/architecture-patterns/clean-architecture.md)
   - [IDesign Method](./software-architecture-fundamentals/architecture-patterns/idesign-method.md)
 - Principles and Best Practices
-  - SOLID Principles
-  - DRY, KISS, YAGNI
+  - [SOLID Principles](./software-architecture-fundamentals/principles-and-best-practices/solid-principles.md)
+  - [DRY, KISS, YAGNI](./software-architecture-fundamentals/principles-and-best-practices/dry-kiss-yagni.md)
 
 ### 6. Cloud and Infrastructure
 
