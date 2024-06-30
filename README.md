@@ -34,202 +34,202 @@ The purpose of this repository is to organize and present key topics and concept
 
 ### 1. Foundation in Programming
 
-- Learn Programming Languages
+- [Learn Programming Languages](./foundation-in-programming/learn-programming-languages.md)
 - Data Structures and Algorithms
-  - [x] [Collection Data Structures](./foundation-in-programming/data-structures-and-algorithms/collection-data-structures.md)
-  - [x] [O(n) notation](./foundation-in-programming/data-structures-and-algorithms/o-notation.md)
+  - [Collection Data Structures](./foundation-in-programming/data-structures-and-algorithms/collection-data-structures.md)
+  - [O(n) notation](./foundation-in-programming/data-structures-and-algorithms/o-notation.md)
 
 ### 2. Software Development Skills
 
-- Version Control Systems
-- Software Development Methodologies
-- Testing
+- [Version Control Systems](./software-development-skills/version-control-systems.md)
+- [Software Development Methodologies](./software-development-skills/software-development-methodologies.md)
+- [Testing](./software-development-skills/testing.md)
 - Programming Paradigms
-  - [x] [Compiled vs. Interpreted languages](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
-  - [x] [Runtimes and Intermediate-languages (e.g., JAVA, .NET)](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
+  - [Compiled vs. Interpreted languages](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
+  - [Runtimes and Intermediate-languages (e.g., JAVA, .NET)](./software-development-skills/programming-paradigms/compiled-vs-interpreted-languages.md)
 
 ### 3. Advanced Programming and Design
 
-- Object-Oriented Design
+- [Object-Oriented Design](./advanced-programming-and-design/object-oriented-design.md)
 - Design Patterns
-  - [ ] Classical Design Patterns (Gang of Four)
+  - [Classical Design Patterns (Gang of Four)](./advanced-programming-and-design/design-patterns/classical-design-patterns.md)
 
 ### 4. Web Development and Databases
 
-- Frontend Development
-- Backend Development
-- Databases
+- [Frontend Development](./web-development-and-databases/frontend-development.md)
+- [Backend Development](./web-development-and-databases/backend-development.md)
+- [Databases](./web-development-and-databases/databases.md)
 
 ### 5. Software Architecture Fundamentals
 
 - Architecture Patterns
-  - [ ] Monolithic Architecture (Monolith)
-  - [ ] Layered Architecture (N-Tier)
-  - [ ] Event-Driven Architecture (Event Driven)
-  - [ ] Hexagonal Architecture
-  - [ ] Clean Architecture
-  - [ ] IDesign Method
+  - Monolithic Architecture (Monolith)
+  - Layered Architecture (N-Tier)
+  - Event-Driven Architecture (Event Driven)
+  - Hexagonal Architecture
+  - Clean Architecture
+  - IDesign Method
 - Principles and Best Practices
-  - [ ] SOLID Principles
-  - [ ] DRY, KISS, YAGNI
+  - SOLID Principles
+  - DRY, KISS, YAGNI
 
 ### 6. Cloud and Infrastructure
 
 - Cloud Platforms
-  - [ ] Compute Services (EC2, Lambda, etc.)
-  - [ ] Storage Services (S3, Azure Blob Storage)
-  - [ ] Networking (VPC, Load Balancers)
+  - Compute Services (EC2, Lambda, etc.)
+  - Storage Services (S3, Azure Blob Storage)
+  - Networking (VPC, Load Balancers)
 - Containerization and Orchestration
-  - [ ] Containers (Fundamentals, Linux on Windows, Repositories and Tagging)
-  - [ ] Kubernetes (Architecture - K8s components, Health Checks, Helm)
+  - Containers (Fundamentals, Linux on Windows, Repositories and Tagging)
+  - Kubernetes (Architecture - K8s components, Health Checks, Helm)
 - Infrastructure as Code (IaC)
 
 ### 7. Security
 
 - Fundamentals
-  - [ ] Certificates
-  - [ ] Encryption
-  - [ ] Hashing
-  - [ ] JWTs
-  - [ ] Secure Coding Practices
-  - [ ] Access Control Models (RBAC, ABAC)
+  - Certificates
+  - Encryption
+  - Hashing
+  - JWTs
+  - Secure Coding Practices
+  - Access Control Models (RBAC, ABAC)
 
 ### 8. Computer Science Fundamentals
 
 - Concurrency
-  - [ ] Deadlocks
-  - [ ] Mutual Exclusion
-  - [ ] Mutual Exclusion Primitives
-  - [ ] Optimistic Locking
-  - [ ] Concurrency Models (Threads, Actors)
+  - Deadlocks
+  - Mutual Exclusion
+  - Mutual Exclusion Primitives
+  - Optimistic Locking
+  - Concurrency Models (Threads, Actors)
 - Networking and Protocols
-  - [ ] TCP vs. UDP
-  - [ ] Protocols and Serialization
-  - [ ] HTTP/HTTPS
-  - [ ] WebSockets
+  - TCP vs. UDP
+  - Protocols and Serialization
+  - HTTP/HTTPS
+  - WebSockets
 - Memory Management
-  - [ ] Virtual Memory
-  - [ ] Memory Access Times
-  - [ ] Garbage Collection
+  - Virtual Memory
+  - Memory Access Times
+  - Garbage Collection
 - Character Encoding
-  - [ ] Unicode and Character Encoding
-  - [ ] ASCII
+  - Unicode and Character Encoding
+  - ASCII
 - Type Systems
-  - [ ] Values vs. Reference Types
-  - [ ] Strong vs. Weak Typing
-  - [ ] Static vs. Dynamic Typing
+  - Values vs. Reference Types
+  - Strong vs. Weak Typing
+  - Static vs. Dynamic Typing
 
 ### 9. Distributed Systems
 
 - Theoretical Foundations
-  - [ ] CAP Theorem
-  - [ ] ACID vs. BASE
+  - CAP Theorem
+  - ACID vs. BASE
 - Consistency Models
-  - [ ] Eventual Consistency
-  - [ ] Strong Consistency
-  - [ ] Causal Consistency
+  - Eventual Consistency
+  - Strong Consistency
+  - Causal Consistency
 - High Availability
-  - [ ] Load Balancing
-  - [ ] Failover Strategies
+  - Load Balancing
+  - Failover Strategies
 - Data Consistency Protocols
-  - [ ] N Phase Commit
-  - [ ] Two-Phase Commit
+  - N Phase Commit
+  - Two-Phase Commit
 - Communication Models
-  - [ ] Event Queue vs. Message Queue
-  - [ ] Publish/Subscribe
+  - Event Queue vs. Message Queue
+  - Publish/Subscribe
 - Transaction Management
-  - [ ] Saga Pattern
-  - [ ] TCC (Try-Confirm/Cancel)
+  - Saga Pattern
+  - TCC (Try-Confirm/Cancel)
 
 ### 10. Performance Optimization
 
 - Asynchronous Programming
-  - [ ] How async/await works
-  - [ ] Event Loop
-  - [ ] Promises/Futures
+  - How async/await works
+  - Event Loop
+  - Promises/Futures
 - Low-Level Performance
-  - [ ] Bitwise operators
-  - [ ] Assembly Language Basics
-  - [ ] CPU Caching
+  - Bitwise operators
+  - Assembly Language Basics
+  - CPU Caching
 
 ### 11. API Design
 
 - API Documentation
-  - [ ] Documenting APIs and IDL
-  - [ ] OpenAPI/Swagger
+  - Documenting APIs and IDL
+  - OpenAPI/Swagger
 - API Behavior
-  - [ ] Idempotent Behaviour
-  - [ ] Statelessness
+  - Idempotent Behaviour
+  - Statelessness
 - API Protocols
-  - [ ] RPC vs. REST
-  - [ ] GraphQL
+  - RPC vs. REST
+  - GraphQL
 
 ### 12. Infrastructure and Hardware
 
 - Caching
-  - [ ] Caches and False Cache-line Invalidation
-  - [ ] In-Memory Caching (Redis, Memcached)
+  - Caches and False Cache-line Invalidation
+  - In-Memory Caching (Redis, Memcached)
 - Instruction Sets
-  - [ ] 32-bit and 64-bit instruction sets
-  - [ ] ARM vs. x86
+  - 32-bit and 64-bit instruction sets
+  - ARM vs. x86
 - Firewalls
-  - [ ] How do firewalls work?
-  - [ ] Types of Firewalls (Packet-filtering, Proxy, Stateful Inspection)
+  - How do firewalls work?
+  - Types of Firewalls (Packet-filtering, Proxy, Stateful Inspection)
 - Storage Area Networks (SANs)
-  - [ ] How do SANs work?
-  - [ ] NAS vs. SAN
+  - How do SANs work?
+  - NAS vs. SAN
 - Virtual Machines
-  - [ ] How do virtual machines work?
-  - [ ] Hypervisors (Type 1 vs. Type 2)
+  - How do virtual machines work?
+  - Hypervisors (Type 1 vs. Type 2)
 
 ### 13. Technologies
 
 - Message Brokers
-  - [ ] Kafka
-  - [ ] RabbitMQ
-  - [ ] ActiveMQ
+  - Kafka
+  - RabbitMQ
+  - ActiveMQ
 - Artificial Intelligence
-  - [ ] Deep Learning
-  - [ ] Machine Learning
-  - [ ] ML.NET
-  - [ ] Neural Networks
-  - [ ] Training and Labeling
-  - [ ] Natural Language Processing (NLP)
+  - Deep Learning
+  - Machine Learning
+  - ML.NET
+  - Neural Networks
+  - Training and Labeling
+  - Natural Language Processing (NLP)
 
 ### 14. DevOps
 
 - Code Quality and Tools
-  - [ ] Linters and Code Quality Tools
-  - [ ] Static Code Analysis
+  - Linters and Code Quality Tools
+  - Static Code Analysis
 - Observability
-  - [ ] Logging
-  - [ ] Monitoring
-  - [ ] Tracing
+  - Logging
+  - Monitoring
+  - Tracing
 - CI/CD Pipelines
-  - [ ] Pipelines, PR's, and everything-as-code
-  - [ ] Deployment Strategies (Blue/Green, Canary)
+  - Pipelines, PR's, and everything-as-code
+  - Deployment Strategies (Blue/Green, Canary)
 - Agile Methods and Analysis
-  - [ ] Agile methods (SCRUM vs. Kanban, #noestimates)
-  - [ ] Capturing requirements
-  - [ ] UML use-cases and activity diagrams
-  - [ ] Waterfall
+  - Agile methods (SCRUM vs. Kanban, #noestimates)
+  - Capturing requirements
+  - UML use-cases and activity diagrams
+  - Waterfall
 - Testing
-  - [ ] Automated tests
-  - [ ] The test pyramid
-  - [ ] Kinds of tests, techniques for each
+  - Automated tests
+  - The test pyramid
+  - Kinds of tests, techniques for each
 
 ### 15. Containers and Kubernetes
 
 - Containers
-  - [ ] Fundamentals
-  - [ ] Linux on Windows
-  - [ ] Repositories and Tagging
-  - [ ] Container Orchestration
+  - Fundamentals
+  - Linux on Windows
+  - Repositories and Tagging
+  - Container Orchestration
 - Kubernetes
-  - [ ] Architecture - K8s components
-  - [ ] Health Checks
-  - [ ] Helm
-  - [ ] StatefulSets vs. Deployments
+  - Architecture - K8s components
+  - Health Checks
+  - Helm
+  - StatefulSets vs. Deployments
 
 ## How to Use This Repository
 
