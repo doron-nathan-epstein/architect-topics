@@ -115,9 +115,9 @@ The purpose of this repository is to organize and present key topics and concept
   - [Unicode and Character Encoding](./computer-science-fundamentals/character-encoding/unicode-and-character-encoding.md)
   - [ASCII](./computer-science-fundamentals/character-encoding/ascii.md)
 - Type Systems
-  - Values vs. Reference Types
-  - Strong vs. Weak Typing
-  - Static vs. Dynamic Typing
+  - [Values vs. Reference Types](./computer-science-fundamentals/type-systems/values-vs-reference-types.md)
+  - [Strong vs. Weak Typing](./computer-science-fundamentals/type-systems/strong-vs-weak-typing)
+  - [Static vs. Dynamic Typing](./computer-science-fundamentals/type-systems/static-vs-dynamic-typing)
 
 ### 9. Distributed Systems
 
