@@ -108,9 +108,9 @@ The purpose of this repository is to organize and present key topics and concept
   - [HTTP/HTTPS](./computer-science-fundamentals/networking-and-protocols/http-https.md)
   - [WebSockets](./computer-science-fundamentals/networking-and-protocols/websockets.md)
 - Memory Management
-  - Virtual Memory
-  - Memory Access Times
-  - Garbage Collection
+  - [Virtual Memory](./computer-science-fundamentals/memory-management/virtual-memory.md)
+  - [Memory Access Times](./computer-science-fundamentals/memory-management/memory-access-times.md)
+  - [Garbage Collection](./computer-science-fundamentals/memory-management/garbage-collection.md)
 - Character Encoding
   - Unicode and Character Encoding
   - ASCII
