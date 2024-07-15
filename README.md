@@ -76,13 +76,13 @@ The purpose of this repository is to organize and present key topics and concept
 ### 6. Cloud and Infrastructure
 
 - Cloud Platforms
-  - Compute Services (EC2, Lambda, etc.)
-  - Storage Services (S3, Azure Blob Storage)
-  - Networking (VPC, Load Balancers)
+  - [Compute Services (EC2, Lambda, etc.)](./cloud-and-infrastructure/cloud-platforms/compute-services.md )
+  - [Storage Services (S3, Azure Blob Storage)](./cloud-and-infrastructure/cloud-platforms/storage-services.md)
+  - [Networking (VPC, Load Balancers)](./cloud-and-infrastructure/cloud-platforms/networking.md)
 - Containerization and Orchestration
-  - Containers (Fundamentals, Linux on Windows, Repositories and Tagging)
-  - Kubernetes (Architecture - K8s components, Health Checks, Helm)
-- Infrastructure as Code (IaC)
+  - [Containers (Fundamentals, Linux on Windows, Repositories and Tagging)](./cloud-and-infrastructure/containerization-and-orchestration/containers.md)
+  - [Kubernetes (Architecture - K8s components, Health Checks, Helm)](./cloud-and-infrastructure/containerization-and-orchestration/kubernetes.md)
+- [Infrastructure as Code (IaC)](./cloud-and-infrastructure/infrustructure-as-code.md)
 
 ### 7. Security
 
