@@ -103,10 +103,10 @@ The purpose of this repository is to organize and present key topics and concept
   - [Optimistic Locking](./computer-science-fundamentals/concurrency/optimistic-locking.md)
   - [Concurrency Models (Threads, Actors)](./computer-science-fundamentals/concurrency/concurrency-models.md)
 - Networking and Protocols
-  - TCP vs. UDP
-  - Protocols and Serialization
-  - HTTP/HTTPS
-  - WebSockets
+  - [TCP vs. UDP](./computer-science-fundamentals/networking-and-protocols/tcp-vs-udp.md)
+  - [Protocols and Serialization](./computer-science-fundamentals/networking-and-protocols/protocols-and-serialization.md)
+  - [HTTP/HTTPS](./computer-science-fundamentals/networking-and-protocols/http-https.md)
+  - [WebSockets](./computer-science-fundamentals/networking-and-protocols/websockets.md)
 - Memory Management
   - Virtual Memory
   - Memory Access Times
