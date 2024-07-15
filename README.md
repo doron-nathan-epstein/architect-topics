@@ -87,12 +87,12 @@ The purpose of this repository is to organize and present key topics and concept
 ### 7. Security
 
 - Fundamentals
-  - Certificates
-  - Encryption
-  - Hashing
-  - JWTs
-  - Secure Coding Practices
-  - Access Control Models (RBAC, ABAC)
+  - [Certificates](./security/fundamentals/certificates.md)
+  - [Encryption](./security/fundamentals/encryption.md)
+  - [Hashing](./security/fundamentals/hashing.md)
+  - [JWTs](./security/fundamentals/jwts.md)
+  - [Secure Coding Practices](./security/fundamentals/secure-coding-practices.md)
+  - [Access Control Models (RBAC, ABAC)](./security/fundamentals/access-control-models.md)
 
 ### 8. Computer Science Fundamentals
 
