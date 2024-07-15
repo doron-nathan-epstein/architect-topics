@@ -97,11 +97,11 @@ The purpose of this repository is to organize and present key topics and concept
 ### 8. Computer Science Fundamentals
 
 - Concurrency
-  - Deadlocks
-  - Mutual Exclusion
-  - Mutual Exclusion Primitives
-  - Optimistic Locking
-  - Concurrency Models (Threads, Actors)
+  - [Deadlocks](./computer-science-fundamentals/concurrency/deadlocks.md)
+  - [Mutual Exclusion](./computer-science-fundamentals/concurrency/mutual-exclusion.md)
+  - [Mutual Exclusion Primitives](./computer-science-fundamentals/concurrency/mutual-exclusion-primitives.md)
+  - [Optimistic Locking](./computer-science-fundamentals/concurrency/optimistic-locking.md)
+  - [Concurrency Models (Threads, Actors)](./computer-science-fundamentals/concurrency/concurrency-models.md)
 - Networking and Protocols
   - TCP vs. UDP
   - Protocols and Serialization
