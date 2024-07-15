@@ -112,8 +112,8 @@ The purpose of this repository is to organize and present key topics and concept
   - [Memory Access Times](./computer-science-fundamentals/memory-management/memory-access-times.md)
   - [Garbage Collection](./computer-science-fundamentals/memory-management/garbage-collection.md)
 - Character Encoding
-  - Unicode and Character Encoding
-  - ASCII
+  - [Unicode and Character Encoding](./computer-science-fundamentals/character-encoding/unicode-and-character-encoding.md)
+  - [ASCII](./computer-science-fundamentals/character-encoding/ascii.md)
 - Type Systems
   - Values vs. Reference Types
   - Strong vs. Weak Typing
