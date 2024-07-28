@@ -122,24 +122,24 @@ The purpose of this repository is to organize and present key topics and concept
 ### 9. Distributed Systems
 
 - Theoretical Foundations
-  - CAP Theorem
-  - ACID vs. BASE
+  - [CAP Theorem](./distributed-systems/theoretical-foundations/cap-theorem.md)
+  - [ACID vs. BASE](./distributed-systems/theoretical-foundations/acid-vs-base.md)
 - Consistency Models
-  - Eventual Consistency
-  - Strong Consistency
-  - Causal Consistency
+  - [Eventual Consistency](./distributed-systems/consistency-models/eventual-consistency.md)
+  - [Strong Consistency](./distributed-systems/consistency-models/strong-consistency.md)
+  - [Causal Consistency](./distributed-systems/consistency-models/causal-consistency.md)
 - High Availability
-  - Load Balancing
-  - Failover Strategies
+  - [Load Balancing](./distributed-systems/high-availability/load-balancing.md)
+  - [Failover Strategies](./distributed-systems/high-availability/failover-strategies.md)
 - Data Consistency Protocols
-  - N Phase Commit
-  - Two-Phase Commit
+  - [N Phase Commit](./distributed-systems/data-consistency-protocols/n-phase-commit.md)
+  - [Two-Phase Commit](./distributed-systems/data-consistency-protocols/two-phase-commit.md)
 - Communication Models
-  - Event Queue vs. Message Queue
-  - Publish/Subscribe
+  - [Event Queue vs. Message Queue](./distributed-systems/communication-models/event-queue-vs-message-queue.md)
+  - [Publish/Subscribe](./distributed-systems/communication-models/publish-subscribe.md)
 - Transaction Management
-  - Saga Pattern
-  - TCC (Try-Confirm/Cancel)
+  - [Saga Pattern](./distributed-systems/transaction-management/saga-pattern.md)
+  - [TCC (Try-Confirm/Cancel)](./distributed-systems/transaction-management/tcc.md)
 
 ### 10. Performance Optimization
 
